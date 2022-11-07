@@ -19,7 +19,7 @@
   },
   "devDependencies": {
     "@types/node": "18.11.8",
-    "@types/react": "18.0.24",
+    "@types/react": "18.0.25",
     "@types/react-dom": "18.0.8",
     "@types/thin-backend": "https://thin.dev/types/6d6202b6-21b3-41dd-add5-b3f1d41bafe3/ziqTRxSLhKKpGYmGdCxdQNRTkCiqpkFp",
     "autoprefixer": "^10.4.13",
